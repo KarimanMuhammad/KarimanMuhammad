@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/profile-banner.svg" width="100%" alt="Kariman Muhammad — Junior Data Analyst banner"/>
+<img src="./assets/profile-banner.webp" width="100%" alt="Kariman Muhammad — Junior Data Analyst banner"/>
 
 
 
