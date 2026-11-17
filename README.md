@@ -2,8 +2,7 @@
 
 <img src="./assets/profile-banner.svg" width="100%" alt="Kariman Muhammad — Junior Data Analyst banner"/>
 
-**Junior Data Analyst | Egypt**  
-*Turning Data into Insights*
+
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kariman-muhammad/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KarimanMuhammad)
@@ -14,7 +13,8 @@
 
 ## About Me
 
-Junior Data Analyst passionate about exploring data, uncovering insights, and supporting data-driven decisions. I enjoy transforming raw data into meaningful analysis and clear visual stories that explain business performance.
+Junior Data Analyst passionate about exploring data, uncovering insights, and supporting data-driven decisions. 
+I enjoy transforming raw data into meaningful analysis and clear visual stories that explain business performance.
 
 ## Skills
 
