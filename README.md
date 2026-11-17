@@ -11,11 +11,6 @@
 
 ---
 
-## About Me
-
-Junior Data Analyst passionate about exploring data, uncovering insights, and supporting data-driven decisions. 
-I enjoy transforming raw data into meaningful analysis and clear visual stories that explain business performance.
-
 ## Skills
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
