@@ -2,12 +2,7 @@
 
 <img src="./assets/profile-banner.svg" width="100%" alt="Kariman Muhammad — Junior Data Analyst banner"/>
 
-</div>
-
-<div align="center">
-
-**Junior Data Analyst | Egypt**
-
+**Junior Data Analyst | Egypt**  
 *Turning Data into Insights*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kariman-muhammad/)
@@ -19,7 +14,7 @@
 
 ## About Me
 
-Junior Data Analyst passionate about exploring data, uncovering insights, and supporting data-driven decisions. I enjoy transforming raw data into meaningful analysis and clear visual stories that help explain business performance and support better decisions.
+Junior Data Analyst passionate about exploring data, uncovering insights, and supporting data-driven decisions. I enjoy transforming raw data into meaningful analysis and clear visual stories that explain business performance.
 
 ## Skills
 
@@ -42,78 +37,58 @@ Junior Data Analyst passionate about exploring data, uncovering insights, and su
 <table>
 <tr>
 <td width="50%" valign="top">
-<table>
-<tr>
-<td valign="top" width="62%">
 
-### 1. [Manufacturing_Efficiency_Project](https://github.com/KarimanMuhammad/Manufacturing_Efficiency_Project)
+<a href="https://github.com/KarimanMuhammad/Manufacturing_Efficiency_Project"><img src="./assets/manufacturing-efficiency.png" width="110" align="left" alt="Manufacturing efficiency project"/></a>
 
-Context-aware manufacturing efficiency analysis that compares actual energy performance against expected performance, identifies meaningful efficiency gaps, and helps prioritize areas for investigation.
+**1. [Manufacturing Efficiency](https://github.com/KarimanMuhammad/Manufacturing_Efficiency_Project)**
 
-**Python · SQL Server · Machine Learning · Power BI**
+Analyzes actual vs. expected manufacturing energy performance to identify and prioritize efficiency gaps.
 
-</td>
-<td valign="top" width="38%">
-<a href="https://github.com/KarimanMuhammad/Manufacturing_Efficiency_Project"><img src="./assets/manufacturing-efficiency.png" width="100%" alt="Manufacturing efficiency project"/></a>
-</td>
-</tr>
-</table>
+<sub>Python · SQL Server · Machine Learning · Power BI</sub>
+
+<br clear="all"/>
+
 </td>
 <td width="50%" valign="top">
-<table>
-<tr>
-<td valign="top" width="62%">
 
-### 2. [DataCo_Smart_Supply_Chain_Analytics](https://github.com/KarimanMuhammad/DataCo_Smart_Supply_Chain_Analytics)
+<a href="https://github.com/KarimanMuhammad/DataCo_Smart_Supply_Chain_Analytics"><img src="./assets/supply-chain.png" width="110" align="left" alt="Supply chain analytics project"/></a>
 
-End-to-end analysis of supply chain operations, sales performance, profitability, customer behavior, product performance, and delivery risk.
+**2. [DataCo Supply Chain](https://github.com/KarimanMuhammad/DataCo_Smart_Supply_Chain_Analytics)**
 
-**Python · SQL · Power BI**
+Explores supply chain operations, sales, profitability, customer and product performance, and delivery risk.
 
-</td>
-<td valign="top" width="38%">
-<a href="https://github.com/KarimanMuhammad/DataCo_Smart_Supply_Chain_Analytics"><img src="./assets/supply-chain.png" width="100%" alt="Supply chain analytics project"/></a>
-</td>
-</tr>
-</table>
+<sub>Python · SQL · Power BI</sub>
+
+<br clear="all"/>
+
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<table>
-<tr>
-<td valign="top" width="62%">
 
-### 3. [Customer-Segmentation-Using-RFM-K-Means](https://github.com/KarimanMuhammad/Customer-Segmentation-Using-RFM-K-Means)
+<a href="https://github.com/KarimanMuhammad/Customer-Segmentation-Using-RFM-K-Means"><img src="./assets/customer-segmentation.png" width="110" align="left" alt="Customer segmentation project"/></a>
 
-Uses RFM analysis and K-Means clustering to segment 2,000 customers into four interpretable groups and support targeted customer strategies.
+**3. [Customer Segmentation](https://github.com/KarimanMuhammad/Customer-Segmentation-Using-RFM-K-Means)**
 
-**Python · Pandas · Scikit-learn · RFM**
+Applies RFM analysis and K-Means to group 2,000 customers into four actionable segments.
 
-</td>
-<td valign="top" width="38%">
-<a href="https://github.com/KarimanMuhammad/Customer-Segmentation-Using-RFM-K-Means"><img src="./assets/customer-segmentation.png" width="100%" alt="Customer segmentation project"/></a>
-</td>
-</tr>
-</table>
+<sub>Python · Pandas · Scikit-learn · RFM</sub>
+
+<br clear="all"/>
+
 </td>
 <td width="50%" valign="top">
-<table>
-<tr>
-<td valign="top" width="62%">
 
-### 4. [Coffee-Sales-Analysis-Excel](https://github.com/KarimanMuhammad/Coffee-Sales-Analysis-Excel)
+<a href="https://github.com/KarimanMuhammad/Coffee-Sales-Analysis-Excel"><img src="./assets/coffee-sales.png" width="110" align="left" alt="Coffee sales Excel dashboard"/></a>
 
-An interactive Excel dashboard analyzing 2024–2025 coffee sales, revenue trends, product performance, payment behavior, and purchasing patterns.
+**4. [Coffee Sales Analysis](https://github.com/KarimanMuhammad/Coffee-Sales-Analysis-Excel)**
 
-**Microsoft Excel · Pivot Tables · Pivot Charts · Dashboard**
+Interactive Excel dashboard covering 2024–2025 sales, revenue trends, product performance, and purchasing patterns.
 
-</td>
-<td valign="top" width="38%">
-<a href="https://github.com/KarimanMuhammad/Coffee-Sales-Analysis-Excel"><img src="./assets/coffee-sales.png" width="100%" alt="Coffee sales Excel dashboard"/></a>
-</td>
-</tr>
-</table>
+<sub>Excel · Pivot Tables · Pivot Charts · Dashboard</sub>
+
+<br clear="all"/>
+
 </td>
 </tr>
 </table>
@@ -124,8 +99,8 @@ An interactive Excel dashboard analyzing 2024–2025 coffee sales, revenue trend
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=KarimanMuhammad&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KarimanMuhammad&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages"/>
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=KarimanMuhammad&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KarimanMuhammad&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages"/>
 
 <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=KarimanMuhammad&theme=tokyo-night&hide_border=true" alt="GitHub contribution activity graph"/>
 
